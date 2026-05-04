@@ -1,5 +1,6 @@
 ## 🖥️ Demo
 <img width="3839" height="1624" alt="Capture d&#39;écran 2026-05-03 165311" src="https://github.com/user-attachments/assets/329c8f47-e353-4075-8257-4c96439ff251" />
+
 # 🤖 AI Research Collaboration System
 
 ### Multi-Agent Intelligence for Discovering High-Impact Research Partnerships
