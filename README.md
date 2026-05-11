@@ -29,7 +29,6 @@ This project presents a **Multi-Agent System (MAS)** that automates collaboratio
 * ⚙️ Demonstrates **modular, scalable architecture**
 * 📈 Bridges **data engineering + decision systems + visualization**
 
-This is not just a script — it’s a **complete intelligent pipeline**.
 
 ---
 
